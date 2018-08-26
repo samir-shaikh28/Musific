@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="action_settings">Indstillinger</string>
+
+    <string name="accessibility_play">Afspil</string>
+    <string name="accessibility_pause">Pause</string>
+    <string name="accessibility_next">N�ste</string>
+    <string name="accessibility_prev">Forrige</string>
+    <string name="accessibility_shuffle">Bland</string>
+    <string name="accessibility_shuffle_all">Bland alle</string>
+    <string name="accessibility_repeat">Gentag</string>
+    <string name="accessibility_repeat_all">Gentag alle</string>
+    <string name="accessibility_repeat_one">Gentag �n</string>
+    <string name="accessibility_queue">�bn k�</string>
+    <string name="accessibility_browse">Gennemse musik</string>
+
+    <string name="menu_sort_by">Sort�r</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Kunstner</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_year">�r</string>
+    <string name="sort_order_entry_track_number">Nummer</string>
+    <string name="sort_order_entry_duration">Varighed</string>
+    <string name="sort_order_entry_date_added">Dato tilf�jet</string>
+    <string name="sort_order_entry_track_list">Spilleliste</string>
+    <string name="sort_order_entry_number_of_songs">Antal sange</string>
+    <string name="sort_order_entry_number_of_albums">Antal albums</string>
+    <string name="sort_order_entry_filename">Filnavn</string>
+
+    <string name="error_playing_track">Fejl under afspilning</string>
+
+    <string name="playlist_last_added">Senest tilf�jet</string>
+    <string name="playlist_recently_played">Afspillet for nylig</string>
+    <string name="playlist_top_tracks">Mine Top Numre</string>
+
+    <string name="timber_source">Rapport�r eventuelle fejl <u> her </u> </string>
+    <string name="timber_feature_request">Bed om nye features via Google+ f�llesskabet <u> her </u></string>
+
+    <string name="menu_show_as">Vis som</string>
+    <string name="menu_show_as_entry_list">Liste</string>
+    <string name="menu_show_as_entry_grid">Gitter</string>
+
+    <string name="light">Lyst</string>
+    <string name="dark">M�rkt</string>
+    <string name="black">Sort</string>
+
+    <string name="last_opened">Sidst �bnet</string>
+
+    <string name="songs">Sange</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Kunstnere</string>
+    <string name="library">Bibliotek</string>
+    <string name="playlists">Afspilningslister</string>
+    <string name="playing_queue">Afspilningsk�</string>
+    <string name="now_playing">Afspilles Nu</string>
+    <string name="settings">Indstillinger</string>
+    <string name="about">Om</string>
+    <string name="help_and_feedback">Hj�lp og Feedback</string>
+    <string name="search">S�g</string>
+    <string name="action_shuffle_all">Bland Alle</string>
+    <string name="action_equalizer">Equalizer</string>
+    <string name="search_library">S�g i Bibliotek</string>
+    <string name="genre">genrer</string>
+
+
+    <string name="select_theme">V�lg Tema</string>
+    <string name="choose_theme_throughout">V�lg et tema til appen.</string>
+    <string name="choose_start_page">V�lg en startside, der vises ved opstart.</string>
+    <string name="start_page">Startside</string>
+    <string name="artist_in_grid">Kunstnere i Gitter</string>
+    <string name="toggle_artists_grid">V�lg for visning af kunstnere i et 2x2 gitter.</string>
+    <string name="toggle_system_animations">V�lg for systemanimationer i appen.</string>
+    <string name="system_animations">Systemanimationer</string>
+    <string name="toggle_animations">V�lg for Overgangsanimation i appen.</string>
+    <string name="animations">Animationer</string>
+    <string name="now_playing_selector">V�lg en Afspilles Nu sk�rm blandt 4 udseender.</string>
+    <string name="personalisation">Personalisering</string>
+    <string name="other">Andet</string>
+    <string name="advanced">Avanceret</string>
+    <string name="timber_about_opensource">Musific er en open source Musikafspiller udviklet af Naman Dwivedi.</string>
+    <string name="summary_pause_detach">V�lg for at pause afspilning n�r hovedtelefoner frakobles</string>
+    <string name="pause_detach">Pause ved Frakobling</string>
+    <string name="summary_xposed_trackselector">Kr�ver Xposed og XMediaNotificationTrackSelector Xposed modul installeret. Dette giver adgang til afspilningsk�en fra selve notifikationslinjen.</string>
+    <string name="xposed_trackselector">Afspilningsk� underst�ttelse i notifikation</string>
+    <string name="currently_selected">Valgt</string>
+
+    <string name="dark_theme">M�rkt Tema</string>
+    <string name="dark_theme_summary">Anvend et m�rkt tema i appen</string>
+
+    <string name="primary_color">Prim�r Farve</string>
+    <string name="primary_color_summary">�ndr den prim�re temafarve</string>
+
+    <string name="accent_color">Accent Farve</string>
+    <string name="accent_color_summary">�ndr accent temafarven</string>
+
+    <string name="colored_status_bar">Farvet Statuslinje</string>
+    <string name="colored_status_bar_summary">V�lg statuslinje farvning</string>
+
+    <string name="colored_nav_bar">Farvet Navigationslinje</string>
+    <string name="colored_nav_bar_summary">V�lg navigationslinje farvning</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> sang</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> sange</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> album</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> albums</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> kunstner</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> kunstnere</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> sang tilf�jet til k�en.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> sange tilf�jet til k�en.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> sang tilf�jet til afspilningslisten.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> sange tilf�jet til afspilningslisten.</string>
+
+
+
+
+    <string name="sleep_timer">Sovetimer</string>
+    <string name="start_timer_button_label">sæt</string>
+    <string name="cancel_timer_button_label">afbestille</string>
+    <string name="timer_started">Sovetimer startet</string>
+    <string name="timer_cancelled">Sleep timer annulleret</string>
+    <string name="hours_label">h</string>
+    <string name="minutes_label">m</string>
+    <string name="paused_music_notification_title">Musific - Musik pauset</string>
+    <string name="paused_music_notification_text">Godnat!</string>
+    <string name="countdown_notification_title">Musific - Countdown Active</string>
+    <string name="countdown_notification_text">Musik bliver pauset på %s</string>
+    <string name="hide">skjule</string>
+    <string name="enabled">enable</string>
+    <string name="flat">flat</string>
+    <string name="bass_boost">Bass Boost</string>
+
+
+
+
+
+
+
+
+    <string name="RingtoneCutter">Musific Cutter</string>
+    <string name="what_to_do_with_ringtone">Hvad skal man gøre med ringetone?</string>
+    <string name="main_activity_label">Vælg sang</string>
+
+    <string name="search_edit_box">Søg</string>
+
+    <string name="button_start_record_activity">Optag nyt</string>
+
+    <string name="sdcard_readonly">Beklager, SD-kortet er monteret som skrivebeskyttet, og Musific kræver, at det er skrivbart.</string>
+    <string name="no_sdcard">Beklager, Musific kan ikke køre, medmindre du har et SD-kort indsat.</string>
+    <string name="sdcard_shared">Beklager, Musific kan ikke køre, mens dit håndsæt er monteret som en USB-enhed.</string>
+
+    <string name="button_options">Muligheder</string>
+
+
+    <string name="start_label">Start:</string>
+    <string name="end_label">Ende:</string>
+
+    <string name="edit_intent">Redigere</string>
+
+    <string name="time_seconds">sekunder</string>
+
+    <string name="set_default_notification">Gemt! Gør dette dit standardmeddelelse?</string>
+
+    <string name="make_default_ringtone_button">Lav standard</string>
+    <string name="do_nothing_with_ringtone_button">Tæt</string>
+
+    <string name="progress_dialog_loading">Indlæser…</string>
+    <string name="progress_dialog_recording">Indspilning…</string>
+    <string name="progress_dialog_saving">Lagring…</string>
+    <string name="progress_dialog_cancel">Afbestille</string>
+    <string name="progress_dialog_stop">Hold op</string>
+
+
+    <string name="start_marker">Start markør</string>
+    <string name="end_marker">Afslut markør</string>
+    <string name="rewind">Spole tilbage</string>
+    <string name="stop">Hold op</string>
+    <string name="ffwd">Spol frem</string>
+    <string name="zoom_in">Zoom ind</string>
+    <string name="zoom_out">Zoome ud</string>
+    <string name="save_button">Gemme</string>
+
+    <string name="menu_save">Gemme</string>
+    <string name="menu_reset">Nulstille</string>
+    <string name="menu_show_all_audio">Vis alt lyd</string>
+
+
+
+    <string name="context_menu_edit">Redigere</string>
+    <string name="context_menu_delete">Slet</string>
+    <string name="context_menu_default_ringtone">Indstil som standard ringetone</string>
+    <string name="context_menu_default_notification">Angiv som standardmeddelelse</string>
+
+
+
+    <string name="file_save_title">Gem som:</string>
+    <string name="file_save_button_save">Gemme</string>
+    <string name="file_save_button_cancel">Afbestille</string>
+
+    <string name="ringtone_type_label">Type:</string>
+
+    <string name="type_music">Musik</string>
+    <string name="type_alarm">Alarm</string>
+    <string name="type_notification">Notifikation</string>
+    <string name="type_ringtone">Ringetone</string>
+
+    <string name="ringtone_name_label">Navn:</string>
+
+    <string name="artist_name">Musikskærer</string>
+
+    <string name="delete_ringtone">Slet ringetone</string>
+    <string name="delete_alarm">Slet alarm</string>
+    <string name="delete_notification">Delete Notification</string>
+    <string name="delete_music">Slet Musik</string>
+    <string name="delete_audio">Slet lyd</string>
+
+    <string name="confirm_delete_ringdroid">Er du sikker?</string>
+    <string name="confirm_delete_non_ringdroid">Er du sikker? Denne fil blev ikke oprettet ved hjælp af Musific!</string>
+
+    <string name="delete_ok_button">Slet</string>
+    <string name="delete_cancel_button">Afbestille</string>
+
+    <string name="delete_failed">Kan ikke slette fil</string>
+
+
+    <string name="alert_title_success">Success</string>
+    <string name="alert_title_failure">Error</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_yes_button">Yes, please!</string>
+    <string name="alert_no_button">No, thanks.</string>
+
+    <string name="save_success_message">Gemt!</string>
+    <string name="default_ringtone_success_message">Ændret standard ringetone</string>
+    <string name="default_notification_success_message">Ændret standardmeddelelseslyd</string>
+    <string name="play_error">Kan ikke afspille denne mediefil</string>
+    <string name="no_unique_filename">Kan ikke finde unikt filnavn</string>
+    <string name="record_error">Fejl ved optagelse af lyd</string>
+    <string name="too_small_error">Kan ikke gemme en lille fil, så prøv at gøre det længere.</string>
+    <string name="write_error">Fejl ved skrivning af fil</string>
+    <string name="read_error">Fejl ved læsning af fil</string>
+
+    <string name="no_space_error">Dit SD-kort er fyldt, der er ikke nok plads til at gemme denne fil.</string>
+
+    <string name="bad_extension_error">Beklager, Musific kan endnu ikke redigere filer af typen</string>
+    <string name="no_extension_error">Beklager, Musific kan ikke redigere en fil, hvis den ikke har en udvidelse som .mp3 eller .wav</string>
+    <string name="select_preset">SELECT PRESET</string>
+    <string name="custom">Custom</string>
+    <string name="equalizer">Equalizer</string>
+
+
+</resources>

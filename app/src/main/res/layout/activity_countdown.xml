@@ -1,0 +1,37 @@
+<!--
+Copyright (c) 2013 Joel Andrews
+Distributed under the MIT License: http://opensource.org/licenses/MIT
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical|center_horizontal"
+    tools:context=".sleeptimer.CountdownActivity">
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_gravity="center"
+            android:text="0"
+            android:id="@+id/time_remaining_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="74dp" />
+
+        <Button
+            android:id="@+id/cancel_timer_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="stopCountdown"
+            android:text="@string/cancel_timer_button_label" />
+
+        <Button
+            android:id="@+id/hide"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="hide"
+            android:text="@string/hide" />
+
+</LinearLayout>

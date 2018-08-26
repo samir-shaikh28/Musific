@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reset_all_caps">RESET ALL</string>
+    <string name="cancel">cancel</string>
+    <string name="done">done</string>
+    <string name="preset_saved">Preset Saved</string>
+    <string name="sleep">Sleep Timer</string>
+    <string name="hide">HIDE</string>
+    <string name="enabled">enable</string>
+    <string name="flat">flat</string>
+    <string name="bass_boost">Bass Boost</string>
+    <string name="RingtoneCutter">Ringtone Cutter</string>
+    <string name="what_to_do_with_ringtone">What to do with ringtone?</string>
+    <string name="select_preset">SELECT PRESET</string>
+    <string name="custom">Custom</string>
+    <string name="equalizer">Equalizer</string>
+</resources>

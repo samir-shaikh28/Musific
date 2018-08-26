@@ -1,0 +1,6 @@
+md "H:\AndroidStudioProjects\Timber-master\app\build\intermediates\ndkBuild\debug\lib\mips64" >NUL 2>NUL || rem
+H:/AndroidStudio/Sdk/ndk-bundle/build//../prebuilt/windows-x86_64/bin/echo.exe [mips64] "Gdbserver      ": "[mips64el-linux-android] H:\AndroidStudioProjects\Timber-master\app\build\intermediates\ndkBuild\debug\lib/mips64/gdbserver"
+copy /b/y "H:\AndroidStudio\Sdk\ndk-bundle\build\\..\prebuilt\android-mips64\gdbserver\gdbserver" "H:\AndroidStudioProjects\Timber-master\app\build\intermediates\ndkBuild\debug\lib\mips64\gdbserver" > NUL
+H:/AndroidStudio/Sdk/ndk-bundle/build//../prebuilt/windows-x86_64/bin/echo.exe [mips64] "Gdbsetup       ": "H:\AndroidStudioProjects\Timber-master\app\build\intermediates\ndkBuild\debug\lib/mips64/gdb.setup"
+H:/AndroidStudio/Sdk/ndk-bundle/build//../prebuilt/windows-x86_64/bin/echo.exe "set solib-search-path H:/AndroidStudioProjects/Timber-master/app/build/intermediates/ndkBuild/debug/obj/local/mips64" > H:\AndroidStudioProjects\Timber-master\app\build\intermediates\ndkBuild\debug\lib/mips64/gdb.setup
+H:/AndroidStudio/Sdk/ndk-bundle/build//../prebuilt/windows-x86_64/bin/echo.exe "directory H:/AndroidStudio/Sdk/ndk-bundle/build//../sysroot H:/AndroidStudio/Sdk/ndk-bundle/build//../sources/cxx-stl/system" >> H:\AndroidStudioProjects\Timber-master\app\build\intermediates\ndkBuild\debug\lib/mips64/gdb.setup
