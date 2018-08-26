@@ -49,9 +49,9 @@ If you are a developer who's interested in using Musific current codebase, I enc
 - Browse Genre 
 
 ## Credits
-* [Timber Music Player](https://github.com/naman14/Timber) -- [Get it from play store](https://play.google.com/store/apps/details?id=naman14.timber)
+* Timber Music Player ->  [Github](https://github.com/naman14/Timber) -- [Get it from play store](https://play.google.com/store/apps/details?id=naman14.timber)
 
-* [Ringdroid Cutter ](https://github.com/johnjohndoe/Ringdroid) -- [Get it from play store](https://play.google.com/store/apps/details?id=com.ringdroid)
+* Ringdroid Cutter -> [Github](https://github.com/johnjohndoe/Ringdroid) -- [Get it from play store](https://play.google.com/store/apps/details?id=com.ringdroid)
 
 
 
