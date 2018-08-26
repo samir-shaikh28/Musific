@@ -33,6 +33,16 @@ If you are a developer who's interested in using Musific current codebase, I enc
 - Playing queue in notification (Xposed)
 - Mp3 Cutter
 - Sleep Timer
+- Song lyrics
+- Gesture support ( swipe to change tracks).
+- Split window support of android 7.0.
+- Pure Material design UI.
+- Headset control.
+- Quick search all your local audio files.
+- Access to inbuilt equalizer
+- Shuffle your song
+- Album art support
+- view upcoming music in queue
 
 
 [ BETA ]
@@ -41,7 +51,7 @@ If you are a developer who's interested in using Musific current codebase, I enc
 ## Credits
 * [Timber Music Player](https://github.com/naman14/Timber) -- [Get it from play store](https://play.google.com/store/apps/details?id=naman14.timber)
 
-* [Ringdroid Cutter ](https://github.com/johnjohndoe/Ringdroid) -- [Get it from play store] (https://play.google.com/store/apps/details?id=com.ringdroid)
+* [Ringdroid Cutter ](https://github.com/johnjohndoe/Ringdroid) -- [Get it from play store](https://play.google.com/store/apps/details?id=com.ringdroid)
 
 
 
