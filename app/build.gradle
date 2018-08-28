@@ -8,8 +8,8 @@ android {
         applicationId "nsdeveloper.musific"
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 106
-        versionName "4.0.6"
+        versionCode 107
+        versionName "4.0.7"
         //renderscript support mode is not supported for 21+ with gradle version 2.0
         renderscriptTargetApi 20
         renderscriptSupportModeEnabled true
