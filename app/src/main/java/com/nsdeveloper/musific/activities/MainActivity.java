@@ -108,8 +108,6 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
             transaction.hide(getSupportFragmentManager().findFragmentById(R.id.fragment_container));
             transaction.replace(R.id.fragment_container, fragment).commit();
 
-
-            transaction.replace(R.id.fragment_container, Fragment.instantiate(MainActivity.this, fragment.getClass().getName())).commit();
         }
     };
 
